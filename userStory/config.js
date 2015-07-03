@@ -1,6 +1,5 @@
-module.exports = {
-
-  'database': "",
-  'port': process.env.PORT || 3000,
-  'secretKey': "YourSecrectKey",
+module.export = {
+  "database": "",
+  "port": process.env.port || 5000,
+  "secretKey": "YourSecretKey"
 };
